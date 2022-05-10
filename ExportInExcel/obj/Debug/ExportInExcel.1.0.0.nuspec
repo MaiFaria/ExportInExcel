@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExportInExcel</id>
+    <version>1.0.0</version>
+    <authors>Maiara F. Santos</authors>
+    <description>Convert a List to Base64 for downloading excel document .xlsx</description>
+    <tags>Export Excel Base64 .xlsx</tags>
+    <repository url="https://github.com/MaiFaria/ExportInExcel.git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="ClosedXML" version="0.95.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="ClosedXML" version="0.95.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\bin\Debug\net45\ExportInExcel.dll" target="lib\net45\ExportInExcel.dll" />
+    <file src="C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\bin\Debug\netstandard2.0\ExportInExcel.dll" target="lib\netstandard2.0\ExportInExcel.dll" />
+  </files>
+</package>

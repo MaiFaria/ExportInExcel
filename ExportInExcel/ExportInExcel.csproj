@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+	  <Authors>Maiara F. Santos</Authors>
+	  <Description>Convert a List to Base64 for downloading excel document .xlsx</Description>
+	  <PackageProjectUrl></PackageProjectUrl>
+	  <PackageTags>Export Excel Base64 .xlsx</PackageTags>
+	  <RepositoryUrl>https://github.com/MaiFaria/ExportInExcel.git</RepositoryUrl>
+	  <Company>ExportInExcel</Company>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+  </ItemGroup>
+
+</Project>
