@@ -10,3 +10,4 @@ C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\net45\
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\net45\ExportInExcel.csproj.CopyComplete
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\net45\ExportInExcel.dll
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\net45\ExportInExcel.pdb
+C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\net45\ExportInExcel.GeneratedMSBuildEditorConfig.editorconfig

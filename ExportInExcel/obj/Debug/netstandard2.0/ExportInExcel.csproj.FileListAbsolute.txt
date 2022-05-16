@@ -7,3 +7,4 @@ C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\netsta
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\netstandard2.0\ExportInExcel.csproj.CoreCompileInputs.cache
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\netstandard2.0\ExportInExcel.dll
 C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\netstandard2.0\ExportInExcel.pdb
+C:\Users\maiara.santos\source\repos\ExportInExcel\ExportInExcel\obj\Debug\netstandard2.0\ExportInExcel.GeneratedMSBuildEditorConfig.editorconfig
